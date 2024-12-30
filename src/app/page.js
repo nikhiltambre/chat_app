@@ -1,4 +1,3 @@
-
 "use client"
 import SignUpForm from "../app/components/SignUpForm"
 
